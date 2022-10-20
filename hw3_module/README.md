@@ -24,22 +24,22 @@ pip install google-api-python-client
 pip install google
 2. 'kivy':
 python -m pip install "kivy[base]" kivy_examples
-3. 'Bio'
+3. 'Bio':
 pip install biopython 
 Biopython also contains 'numpy' module.
-4. 'aiohttp'
+4. 'aiohttp':
 pip install aiohttp
-5. 'pandas'
+5. 'pandas':
 pip install pandas
-6. 'scipy'
+6. 'scipy':
 pip install scipy
-7. 'pip install'
+7. 'pip install':
 pip install scanpy
-8. 'cv2'
+8. 'cv2':
 pip install opencv-python
-9. 'lxml'
+9. 'lxml':
 pip install lxml
-10. 'typing'
+10. 'typing':
 pip install typing
 
 
