@@ -33,9 +33,9 @@ def  multiply_matrices(L):
     if multiplication_check(L) == True:
         for i in range(len(L)-1):
             pr = np.dot(L[i],L[i+1])
+    	return pr
     else:
-        pr = "None"
-    return pr
+        return None
 
 def compute_2d_distance(a,b):
     d = np.sqrt((b[0]-a[0])**2 + (b[1]-a[1])**2)
